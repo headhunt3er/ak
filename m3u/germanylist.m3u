@@ -29,6 +29,16 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,DE:Sky Sport 1
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8451.m3u8
+#EXTINF:-1,TR:LIG TV 1
+http://hls.goodgame.ru/hls/20932.m3u8
+#EXTINF:-1,TR:LIG TV 2
+http://141.0.169.245/Lig_TV
+#EXTINF:-1,TR:LIG TV 3
+http://iptv00.hol.es/1.m3u
+#EXTINF:-1,TR:LIG TV 4
+http://iptv00.hol.es/Sporadair/25
+#EXTINF:-1,TR:LIG TV 5
+http://hls.goodgame.ru/hls/34446.m3u8
 #EXTINF:-1,DE:Sky Sport 2
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8450.m3u8
 #EXTINF:-1,DE:Sky Sport Austria
