@@ -5,41 +5,17 @@
 
 
 #EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]Notizen[/COLOR] --------------------------[/COLOR][/B][/I]
-
-
- 
 #EXTINF:-1,[I][B][COLOR white]ANIL IST DER GROESSTE KING DIESER WELT.[/COLOR][/B][/I]
-
-
- 
 #EXTINF:-1,[I][B][COLOR white]Ich teste nur mal ein wenig rum.[/COLOR][/B][/I]
-
-
- 
 #EXTINF:-1,[I][B][COLOR white]Keine Ahnung was ich noch schreiben soll[/COLOR][/B][/I]
-
-
- 
 #EXTINF:-1,[I][B][COLOR white]darum einfach blablabla.[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR white]Also bei Fragen oder Anregungen[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR white]mach einfach was du willst.[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR white]Oder geh direkt Bardoni[/COLOR][/B][/I]
 
 
- 
-#EXTINF:-1,[I][B][COLOR white]We also want to thank all the users who contributed[/COLOR][/B][/I]
 
-
- 
-#EXTINF:-1,[I][B][COLOR white]with a small donation. It's the small gestures that make a difference.[/COLOR][/B][/I]
-
-
- 
-#EXTINF:-1,[I][B][COLOR white]This is not the best English, but I think you'll understand. :)[/COLOR][/B][/I]
-
-
- 
-#EXTINF:-1,[I][B][COLOR orange]------------------- WE ONLY SHARE! --------------------[/COLOR][/B][/I]
-
-
- 
+#EXTINF:-1,[I][B][COLOR orange]------------------- WE LOVE ANIL! --------------------[/COLOR][/B][/I]
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
@@ -155,6 +131,8 @@ http://cobra-iptv.noip.me:8000/live/finizio/finizio/8556.m3u8
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8557.m3u8
 #EXTINF:-1,DE:Pro 7 HD
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8558.m3u8
+#EXTINF:0,PRO 7 ANIL
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/595/index.m3u8
 #EXTINF:-1,DE:N-TV
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8560.m3u8
 #EXTINF:-1,DE:MGM HD
