@@ -133,6 +133,8 @@ http://cobra-iptv.noip.me:8000/live/finizio/finizio/8557.m3u8
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8558.m3u8
 #EXTINF:0,PRO 7 ANIL
 http://balancer2.herokuapp.com/d/facebook/makiatoiptv/595/index.m3u8
+#EXTINF:0,pro7 ANIL 2
+rtmp://s4.stream-server.org:1935/live/pro7.stream
 #EXTINF:-1,DE:N-TV
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8560.m3u8
 #EXTINF:-1,DE:MGM HD
