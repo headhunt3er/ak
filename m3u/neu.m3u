@@ -1,0 +1,537 @@
+﻿#EXTM3U
+#EXTINF:0,DW
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/586/index.m3u8
+#EXTINF:0,Kabel Eins
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1260/index.m3u8
+#EXTINF:0,VOX
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/594/index.m3u8
+#EXTINF:0,PRO 7
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/595/index.m3u8
+#EXTINF:0,RTL
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/596/index.m3u8
+#EXTINF:0,RTL 2
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/597/index.m3u8
+#EXTINF:0,RTL Nitro
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1258/index.m3u8
+#EXTINF:0,Super RTL
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1270/index.m3u8
+#EXTINF:0,ZDF
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1262/index.m3u8
+#EXTINF:0,ZDF Kultur
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1264/index.m3u8
+#EXTINF:0,Sat1.
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2212/index.m3u8
+#EXTINF:0,SAT 1 Gold
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1268/index.m3u8
+#EXTINF:0,KIKA
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1272/index.m3u8
+#EXTINF:0,Fix Foxy
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/599/index.m3u8
+#EXTINF:0,ARTE
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1282/index.m3u8
+#EXTINF:0,MTV HITS Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1511/index.m3u8
+#EXTINF:0,MTV Dance Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1516/index.m3u8
+#EXTINF:0,MTV ROCKS Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1512/index.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,DE: FOX HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/4601.m3u8
+#EXTINF:-1,DE:Zdf HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8526.m3u8
+#EXTINF:-1,DE:WDR HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8527.m3u8
+#EXTINF:-1,DE:Vox
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8528.m3u8
+#EXTINF:-1,DE:Universal Channel HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8529.m3u8
+#EXTINF:-1,DE:TNT Film HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8530.m3u8
+#EXTINF:-1,DE:SYFY HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8531.m3u8
+#EXTINF:-1,DE:Sixx
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8553.m3u8
+#EXTINF:-1,DE:Sat 1
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8554.m3u8
+#EXTINF:-1,DE:RTL Nitro
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8555.m3u8
+#EXTINF:-1,DE:RTL 2
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8556.m3u8
+#EXTINF:-1,DE:RTL
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8557.m3u8
+#EXTINF:-1,DE:Pro 7 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8558.m3u8
+#EXTINF:-1,DE:Kabel 1
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8563.m3u8
+#EXTINF:-1,DE:History  HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8564.m3u8
+#EXTINF:-1,DE:Discovery Channel HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8569.m3u8
+#EXTINF:-1,DE:Axn HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8571.m3u8
+#EXTINF:-1,DE:Ard
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8572.m3u8
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/525.m3u8
+#EXTINF:-1,DE: FOX HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/524.m3u8
+#EXTINF:-1,DE: 13th Street HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/523.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,DE: SUPER RTL
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/535.m3u8
+#EXTINF:-1,DE: SIXX HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/530.m3u8
+#EXTINF:-1,DE: RTL PASSION
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/529.m3u8
+#EXTINF:-1,DE: RTL NITRO
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/528.m3u8
+#EXTINF:-1,DE: RTL HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/527.m3u8
+#EXTINF:-1,DE: AXN HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/532.m3u8
+#EXTINF:-1,DE: AUSTRIA 24
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/537.m3u8
+#EXTINF:-1,BEIn SPORT AR  RTMP Secure
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/300.m3u8
+#EXTINF:-1,DE: SAT 1
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/176.m3u8
+#EXTINF:-1,DE: 3SAT
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/171.m3u8
+#EXTINF:-1,DE: DAS ERSTE
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/165.m3u8
+#EXTINF:-1,DE: ARD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/174.m3u8
+#EXTINF:-1,DE: ZDF
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/166.m3u8
+#EXTINF:-1,DE: ZDFneo
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/173.m3u8
+#EXTINF:-1,DE: VOX
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/175.m3u8
+#EXTINF:-1,DE: PHOENIX
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/172.m3u8
+#EXTINF:-1,DE: N24
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/169.m3u8
+#EXTINF:-1,DE: Discovery Channel
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/168.m3u8
+#EXTINF:-1,DE: KIKA HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/170.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:0,Nat Geo Wild DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2221/index.m3u8
+#EXTINF:0,Sky Cinema DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2223/index.m3u8
+#EXTINF:0,Sky Action DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2226/index.m3u8
+#EXTINF:0,Sky Comedy DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2227/index.m3u8
+#EXTINF:0,Sky Hits DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2228/index.m3u8
+#EXTINF:0,Sky Atlantic DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2230/index.m3u8
+#EXTINF:-1,DE:Sky Cinema
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8465.m3u8
+#EXTINF:-1,DE:SKY Cinema 1
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8466.m3u8
+#EXTINF:-1,DE:Sky Cinema 24
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8467.m3u8
+#EXTINF:-1,DE:SKY Cinema Emotion
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8464.m3u8
+#EXTINF:-1,Teleclub cinema
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/4566.m3u8
+#EXTINF:-1,Teleclub star
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/4568.m3u8
+#EXTINF:-1,Teleclub crime
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/4567.m3u8
+#EXTINF:-1,DE:Sky Comedy
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8463.m3u8
+#EXTINF:-1,DE:Sky TNT Serie
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8448.m3u8
+#EXTINF:-1,DE:Sky Natgeo Wild
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8454.m3u8
+#EXTINF:-1,DE:SKY NatGeo
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8455.m3u8
+#EXTINF:-1,DE:Sky Sci-Fi
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8452.m3u8
+#EXTINF:-1,DE:SKY Nostalgie
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8453.m3u8
+#EXTINF:-1,DE:Sky Krimi
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8456.m3u8
+#EXTINF:-1,DE:SKY Junior
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8457.m3u8
+#EXTINF:-1,DE:Sky Disney XD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8461.m3u8
+#EXTINF:-1,DE:Sky H.m3u8
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8458.m3u8
+#EXTINF:-1,DE:Sky Heimakanal
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8459.m3u8
+#EXTINF:-1,DE:Sky Fox
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8460.m3u8
+#EXTINF:-1,DE:Sky Discovery
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8462.m3u8
+#EXTINF:-1,DE:Sky Atlantic
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8468.m3u8
+#EXTINF:-1,DE:Sky Action
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8469.m3u8
+#EXTINF:-1,DE: Sky Planet HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/4607.m3u8
+#EXTINF:-1,DE:Sky Action HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8542.m3u8
+#EXTINF:-1,DE:Sky Select 1
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8541.m3u8
+#EXTINF:-1,DE:Sky Select 2
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8540.m3u8
+#EXTINF:-1,DE:Sky Select 3
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8539.m3u8
+#EXTINF:-1,DE:Sky Select 4
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8538.m3u8
+#EXTINF:-1,DE:Sky Select 5
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8537.m3u8
+#EXTINF:-1,DE:Sky Select 6
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8536.m3u8
+#EXTINF:-1,DE:Sky Select 7
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8535.m3u8
+#EXTINF:-1,DE:Sky Select 8
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8534.m3u8
+#EXTINF:0,Sky Sport 1 DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2232/index.m3u8
+#EXTINF:0,Sky Sport 2 DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/3777/index.m3u8
+#EXTINF:0,Sky Bundesliga 1
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/809/index.m3u8
+#EXTINF:-1,DE:Sky Sport 1
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8451.m3u8
+#EXTINF:-1,DE:Sky Sport 2
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8450.m3u8
+#EXTINF:-1,DE:Sky Sport Austria
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8449.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 1 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8552.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 2 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8550.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 3 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8549.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 4 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8548.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 5 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8547.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 6 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8546.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 7 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8545.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 8 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8544.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 9 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8543.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 10 HD
+http://cobra-iptv.noip.me:8000/live/finizio/finizio/8551.m3u8
+#EXTINF:-1,DE: Sky Select 1-The Visit
+http://cobra-iptv.noip.me:8000/movie/finizio/finizio/9413.mkv
+#EXTINF:-1,DE: Sky Select 2- Sicario
+http://cobra-iptv.noip.me:8000/movie/finizio/finizio/9414.mkv
+#EXTINF:-1,DE: Sky Select 3- Man lernt nie aus
+http://cobra-iptv.noip.me:8000/movie/finizio/finizio/9415.mkv
+#EXTINF:-1,DE: Sky Select 4- Maze Runner Die Auserwaehlten in der Brandwueste
+http://cobra-iptv.noip.me:8000/movie/finizio/finizio/9416.mkv
+#EXTINF:-1,DE: Sky Select 5- Kill the Messenger
+http://cobra-iptv.noip.me:8000/movie/finizio/finizio/9417.mkv
+#EXTINF:-1,DE: Sky Select 6- Hitman Agent 47
+http://cobra-iptv.noip.me:8000/movie/finizio/finizio/9418.mkv
+#EXTINF:-1,DE: Sky Select 7- Gallows Jede Schule hat ein Geheimnis
+http://cobra-iptv.noip.me:8000/movie/finizio/finizio/9419.mkv
+#EXTINF:-1,DE: Sky Select 8- Everest
+http://cobra-iptv.noip.me:8000/movie/finizio/finizio/9420.mkv
+#EXTINF:-1,DE: SKY 3D
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/531.m3u8
+#EXTINF:-1,DE: SKY CINEMA HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/533.m3u8
+#EXTINF:-1,DE: SKY CINEMA +1
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/374.m3u8
+#EXTINF:-1,DE: SKY COMEDY
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/369.m3u8
+#EXTINF:-1,DE: SKY ATLANTIC
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/373.m3u8
+#EXTINF:-1,DE: SKY ACTION
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/368.m3u8
+#EXTINF:-1,DE: SKY EMOTION
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/371.m3u8
+#EXTINF:-1,DE: SKY H.m3u8
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/372.m3u8
+#EXTINF:-1,DE: National Geo HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/526.m3u8
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/525.m3u8
+#EXTINF:-1,DE: SKY KRIMI
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/370.m3u8
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/534.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/193.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/194.m3u8
+#EXTINF:-1,DE: BUNDESLIGA HD
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/192.m3u8
+#EXTINF:-1,DE: SKY SELECT 1
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/502.m3u8
+#EXTINF:-1,DE: SKY SELECT 2
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/503.m3u8
+#EXTINF:-1,DE: SKY SELECT 3
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/504.m3u8
+#EXTINF:-1,DE: SKY SELECT 4
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/505.m3u8
+#EXTINF:-1,DE: SKY SELECT 5
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/506.m3u8
+#EXTINF:-1,DE: SKY SELECT 6
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/507.m3u8
+#EXTINF:-1,DE: SKY SELECT 7
+http://nova.ddns.me:8000/live/mehyar_1234/nqashalhob/508.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 1HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 2HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 3HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HD  GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:0,126 Skysport1 HD 
+ http://ez-pali-kanei.is-a-linux-user.org:7005/101.ch?u=vasilispeteros&p=123456789 
+ #EXTINF:0,127 Skysport2 HD 
+ http://ez-pali-kanei.is-a-linux-user.org:7005/102.ch?u=vasilispeteros&p=123456789 
+ #EXTINF:0,128 Sky Select 
+ http://ez-pali-kanei.is-a-linux-user.org:7005/100.ch?u=vasilispeteros&p=123456789 
+ #EXTINF:0,129 Sky Select1 
+ http://ez-pali-kanei.is-a-linux-user.org:7005/103.ch?u=vasilispeteros&p=123456789 
+ #EXTINF:0,130 Sky Select2 
+ http://ez-pali-kanei.is-a-linux-user.org:7005/104.ch?u=vasilispeteros&p=123456789 
+#EXTINF:-1,Sky Sport 1 HD - SkyDe
+ http://www.nasatv.eu:80/live?channelId=122&uid=7&deviceUser=dm800&devicePass=dm800
+ #EXTINF:-1,Sky Sport 2 HD - SkyDe2
+ 
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+ #EXTINF:0,Kabel Eins
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1260/index.m3u8
+#EXTINF:0,VOX
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/594/index.m3u8
+#EXTINF:0,PRO 7
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/595/index.m3u8
+#EXTINF:0,RTL
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/596/index.m3u8
+#EXTINF:0,RTL 2
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/597/index.m3u8
+#EXTINF:0,RTL Nitro
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1258/index.m3u8
+#EXTINF:0,Super RTL
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1270/index.m3u8
+#EXTINF:0,ZDF
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1262/index.m3u8
+#EXTINF:0,ZDF Kultur
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1264/index.m3u8
+#EXTINF:0,ZDF info
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1266/index.m3u8
+#EXTINF:0,Sat1.
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2212/index.m3u8
+#EXTINF:0,SAT 1 Gold
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1268/index.m3u8
+#EXTINF:0,3 SAT
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1274/index.m3u8
+#EXTINF:0,EinsPlus
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1276/index.m3u8
+#EXTINF:0,Einsfestival
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1278/index.m3u8
+#EXTINF:0,Tagesschau24
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1280/index.m3u8
+#EXTINF:0,KIKA
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1272/index.m3u8
+#EXTINF:0,Fix Foxy
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/599/index.m3u8
+#EXTINF:0,ARTE
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1282/index.m3u8
+#EXTINF:0,MTV HITS Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1511/index.m3u8
+#EXTINF:0,MTV Dance Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1516/index.m3u8
+#EXTINF:0,MTV ROCKS Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1512/index.m3u8
+#EXTINF:0,VH1 Classic Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1513/index.m3u8
+#EXTINF:0,40 TV Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1515/index.m3u8
+#EXTINF:0,Mezzo Germany
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/1517/index.m3u8
+#EXTINF:0,Nat Geo Wild DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2221/index.m3u8
+#EXTINF:0,Sky Cinema DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2223/index.m3u8
+#EXTINF:0,Sky Action DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2226/index.m3u8
+#EXTINF:0,Sky Comedy DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2227/index.m3u8
+#EXTINF:0,Sky Hits DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2228/index.m3u8
+#EXTINF:0,Sky Atlantic DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2230/index.m3u8
+#EXTINF:0,Sky Sport 1 DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/2232/index.m3u8
+#EXTINF:0,Sky Sport 2 DE
+http://balancer2.herokuapp.com/uk/facebook/makiatoiptv/3777/index.m3u8
+#EXTINF:0,Sky Bundesliga 1
+http://balancer2.herokuapp.com/d/facebook/makiatoiptv/809/index.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,BeIN sport HD1
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/136.ts
+
+#EXTINF:-1,BeIN sport HD2
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/137.ts
+
+#EXTINF:-1,BeIN sport HD3
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/138.ts
+
+#EXTINF:-1,BeIN sport HD4
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/139.ts
+
+#EXTINF:-1,BeIN sport HD5
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/140.ts
+
+#EXTINF:-1,BeIN sport HD6
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/335.ts
+
+#EXTINF:-1,BeIN sport HD7
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/142.ts
+
+#EXTINF:-1,BeIN sport HD8
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/143.ts
+
+#EXTINF:-1,BeIN sport HD9
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/336.ts
+
+#EXTINF:-1,BeIN sport HD10
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/337.ts
+
+#EXTINF:-1,BeIN sport HD11
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/146.ts
+
+#EXTINF:-1,BeIN sport HD12
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/147.ts
+
+#EXTINF:-1,BeIN sport HD13
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/459.ts
+
+#EXTINF:-1,BeIN sport HD14
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/460.ts
+
+#EXTINF:-1,BeIN sport HD15
+
+http://iptv.for-our.info:2112/live/v3_1996/dftguop981/461.ts
+
+
+#EXTINF:-1,IPTV BienSport Dikrayaty
+
+http://ipsatpro.com:8000/live/argentina/argentina/170.ts
+
+#EXTINF:-1,AR: Bein Sport 1 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/169.ts
+
+#EXTINF:-1,AR: Bein Sport 2 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/168.ts
+
+#EXTINF:-1,AR: Bein Sport 3 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/167.ts
+
+#EXTINF:-1,AR: Bein Sport 4 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/166.ts
+
+#EXTINF:-1,AR: Bein Sport 5 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/165.ts
+
+#EXTINF:-1,AR: Bein Sport 6 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/164.ts
+
+#EXTINF:-1,AR: Bein Sport 7 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/163.ts
+
+#EXTINF:-1,AR: Bein Sport 8 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/162.ts
+
+#EXTINF:-1,AR: Bein Sport 9 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/161.ts
+
+#EXTINF:-1,AR: Bein Sport 10 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/160.ts
+
+#EXTINF:-1,AR: Bein Sport 11 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/159.ts
+
+#EXTINF:-1,AR: Bein Sport 12 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/1262.ts
+
+#EXTINF:-1,AR: Bein Sport 13 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/1263.ts
+
+#EXTINF:-1,AR: Bein Sport 14 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/1264.ts
+
+#EXTINF:-1,AR: Bein Sport 15 HD
+
+http://ipsatpro.com:8000/live/argentina/argentina/1265.ts
+
+#EXTINF:-1,AR: Bein Movies 1
+
+http://ipsatpro.com:8000/live/argentina/argentina/1224.ts
+
+#EXTINF:-1,AR: Bein Movies 2
+
+http://ipsatpro.com:8000/live/argentina/argentina/1225.ts
