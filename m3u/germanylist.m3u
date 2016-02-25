@@ -4,6 +4,7 @@
 http://0.0.0.0:1234
 
 #EXTINF:-1,[B][COLOR red]--- beIN Sports ---[/COLOR][/B]
+http://0.0.0.0:1234
 #EXTINF:-1,beIN Sports 1HD
 http://www.t12v.com:8000/live/A@kNOuch/RaChId/1355.ts
 #EXTINF:-1,beIN Sports 2HD
@@ -38,6 +39,7 @@ http://www.t12v.com:8000/live/A@kNOuch/RaChId/1239.ts
 http://www.t12v.com:8000/live/A@kNOuch/RaChId/1242.ts
 
 #EXTINF:-1,[B][COLOR red]--- beIN Sports Alternativ 1 ---[/COLOR][/B]
+http://0.0.0.0:1234
 #EXTINF:-1,beIN Sports 1_HD
 http://www.t12v.com:8000/live/A@kNOuch/RaChId/186.ts
 #EXTINF:-1,beIN Sports 2_HD
@@ -72,6 +74,7 @@ http://www.t12v.com:8000/live/A@kNOuch/RaChId/453.ts
 http://www.t12v.com:8000/live/A@kNOuch/RaChId/1230.ts
 
 #EXTINF:-1,[B][COLOR red]--- beIN Sports Alternativ 2 ---[/COLOR][/B]
+http://0.0.0.0:1234
 #EXTINF:-1,Bein Sports 1 HD
 http://ift.tt/1WtHMlP
 #EXTINF:-1,Bein Sports 2 HD
