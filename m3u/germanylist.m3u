@@ -1,75 +1,16 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 22-02-2016 ---[/B][/I][/COLOR] [COLOR pink][I][B]UPDATE: 1[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green]--REDENEOBUX.COM 22-02-2016--[/COLOR]
 
-
-
-#EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]Notizen[/COLOR] --------------------------[/COLOR][/B][/I]
-#EXTINF:-1,[I][B][COLOR white]ANIL IST DER GROESSTE KING DIESER WELT.[/COLOR][/B][/I]
-#EXTINF:-1,[I][B][COLOR white]Ich teste nur mal ein wenig rum.[/COLOR][/B][/I]
-#EXTINF:-1,[I][B][COLOR white]Keine Ahnung was ich noch schreiben soll[/COLOR][/B][/I]
-#EXTINF:-1,[I][B][COLOR white]darum einfach blablabla.[/COLOR][/B][/I]
-#EXTINF:-1,[I][B][COLOR white]Also bei Fragen oder Anregungen[/COLOR][/B][/I]
-#EXTINF:-1,[I][B][COLOR white]mach einfach was du willst.[/COLOR][/B][/I]
-#EXTINF:-1,[I][B][COLOR white]Oder geh direkt Bardoni[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[I][B][COLOR orange]------------------- WE LOVE ANIL SO MUCH! --------------------[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR orange]------------------- ANIL IST DER KING --------------------[/COLOR][/B][/I]
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
 #EXTINF:-1,[I][B][COLOR yellow]---★ Temporare Kanale ★---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR yellow][I][B]Einige Kanäle können nicht funktionieren,[/B][/I][/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow][I][B]haben buffer oder hinunter nach ein paar Sekunden.[/B][/I][/COLOR]
 
 #EXTM3U
-#EXTINF:-1,BeIN sport HD1
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/136.ts
-#EXTINF:-1,BeIN sport HD2
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/137.ts
-#EXTINF:-1,BeIN sport HD3
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/138.ts
-#EXTINF:-1,BeIN sport HD4
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/139.ts
-#EXTINF:-1,BeIN sport HD5
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/140.ts
-#EXTINF:-1,BeIN sport HD6
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/335.ts
-#EXTINF:-1,BeIN sport HD7
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/142.ts
-#EXTINF:-1,BeIN sport HD8
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/143.ts
-#EXTINF:-1,BeIN sport HD9
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/336.ts
-#EXTINF:-1,BeIN sport HD10
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/337.ts
-#EXTINF:-1,BeIN sport HD11
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/146.ts
-#EXTINF:-1,BeIN sport HD12
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/147.ts
-#EXTINF:-1,BeIN sport HD13
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/459.ts
-#EXTINF:-1,BeIN sport HD14
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/460.ts
-#EXTINF:-1,BeIN sport HD15
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/461.ts
 #EXTINF:-1,DE:Sky Sport 1
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8451.m3u8
-#EXTINF:-1,TR:LIG TV 1
-http://hls.goodgame.ru/hls/20932.m3u8
-#EXTINF:-1,TR:LIG TV 2
-http://141.0.169.245/Lig_TV
-#EXTINF:-1,TR:LIG TV 3
-http://iptv00.hol.es/1.m3u
-#EXTINF:-1,TR:LIG TV 4
-http://iptv00.hol.es/Sporadair/25
-#EXTINF:-1,TR:LIG TV 5
-http://hls.goodgame.ru/hls/34446.m3u8
 #EXTINF:-1,DE:Sky Sport 2
 http://cobra-iptv.noip.me:8000/live/finizio/finizio/8450.m3u8
 #EXTINF:-1,DE:Sky Sport Austria
