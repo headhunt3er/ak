@@ -395,7 +395,9 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/759.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/758.ts
 #EXTINF:-1,[B][COLOR red]--- M3U Test ---[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,DMAX
-http://93.189.144.154:8085/media/hls_154/dmax/index.m3u8
+#EXTINF:-1,DE: Prosieben HD
+http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1540.ts
+#EXTINF:-1,DE: Sky DMAX
+http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1579.ts
 #EXTINF:-1,[B][COLOR red]--- Verzieh dich nach oben!! ---[/COLOR][/B]
 http://0.0.0.0:1234
