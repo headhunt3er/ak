@@ -395,6 +395,8 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/759.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/758.ts
 #EXTINF:-1,[B][COLOR red]--- M3U Test ---[/COLOR][/B]
 http://0.0.0.0:1234
+#EXTINF:-1,##### DE#####
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/522.ts
 #EXTINF:-1,DE: Sky cinema
 http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4572.ts
 #EXTINF:-1,DE: Sky Cinema +1
