@@ -395,5 +395,177 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/759.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/758.ts
 #EXTINF:-1,[B][COLOR red]--- M3U Test ---[/COLOR][/B]
 http://0.0.0.0:1234
+#EXTINF:-1,DE: Sky cinema
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4572.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4296.ts
+#EXTINF:-1,DE: Sky-Emotion
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3820.ts
+#EXTINF:-1,DE: Sky Comedy
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3800.ts
+#EXTINF:-1,DE: SKY CINEMA  24 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3803.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4297.ts
+#EXTINF:-1,DE: SKY ACTION HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3804.ts
+#EXTINF:-1,DE: SKY HITS
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3797.ts
+#EXTINF:-1,DE: Sky-Action
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3823.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4298.ts
+#EXTINF:-1,DE: DMAX*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3791.ts
+#EXTINF:-1,DE: AXN Action
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4239.ts
+#EXTINF:-1,DE: SF1
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4301.ts
+#EXTINF:-1,DE: SF2
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4300.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4285.ts
+#EXTINF:-1,DE: RTL Passion
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4299.ts
+#EXTINF:-1,DE: RTL Crime
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4629.ts
+#EXTINF:-1,DE: Romance TV
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4286.ts
+#EXTINF:-1,DE: MGM
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4292.ts
+#EXTINF:-1,DE: HeimatKanal
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4295.ts
+#EXTINF:-1,DE: National Geographic
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4293.ts
+#EXTINF:-1,DE: Discovery Channel
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4291.ts
+#EXTINF:-1,DE: Das Erster
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4284.ts
+#EXTINF:-1,DE: Pro Sieben Maxx
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4244.ts
+#EXTINF:-1,DE: 1-2-3.TV
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4243.ts
+#EXTINF:-1,DE: N24
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4242.ts
+#EXTINF:-1,DE: Sixx
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4238.ts
+#EXTINF:-1,DE: RTL Television*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4241.ts
+#EXTINF:-1,DE: RTL Living*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4240.ts
+#EXTINF:-1,DE: Dysney Channel
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4236.ts
+#EXTINF:-1,DE: DISNEY JUNIOR
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3814.ts
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3815.ts
+#EXTINF:-1,DE: VOX
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3792.ts
+#EXTINF:-1,DE: TNT Film
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/8434.ts
+#EXTINF:-1,DE: TNT SERIE
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3793.ts
+#EXTINF:-1,DE: Ard
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4848.ts
+#EXTINF:-1,DE: ZDF info*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4849.ts
+#EXTINF:-1,DE: ZDF*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4850.ts
+#EXTINF:-1,DE: TLC
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4851.ts
+#EXTINF:-1,DE: SYFY HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3794.ts
+#EXTINF:-1,DE: SUPER RTL*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3787.ts
+#EXTINF:-1,DE: Sky RTL HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3795.ts
+#EXTINF:-1,DE: SKY KRIMI
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3796.ts
+#EXTINF:-1,DE: KIKA*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3805.ts
+#EXTINF:-1,DE: SAT 1
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3806.ts
+#EXTINF:-1,DE: RTL NITRO*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3807.ts
+#EXTINF:-1,DE: RTL 2*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3808.ts
+#EXTINF:-1,DE: RTL
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3826.ts
+#EXTINF:-1,DE: N-TV*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3789.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3783.ts
+#EXTINF:-1,DE: ORF2
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3810.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3785.ts
+#EXTINF:-1,DE: 3sat*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3830.ts
+#EXTINF:-1,DE: ZDF Kultur*
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3829.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3812.ts
+#EXTINF:-1,DE: Nat-Geo Wild
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3827.ts
+#EXTINF:-1,DE: HISTORY-CHANNEL
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3828.ts
+#EXTINF:-1,DE: Big Brother
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3784.ts
+#EXTINF:-1,DE: Sky Sport News
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4294.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4571.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4237.ts
+#EXTINF:-1,DE: Bundesliga 1
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1551.ts
+#EXTINF:-1,DE: Bundesliga 2
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/4376.ts
+#EXTINF:-1,DE: Bundesliga 3
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/5028.ts
+#EXTINF:-1,DE: Bundesliga 4
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/5029.ts
+#EXTINF:-1,DE: Bundesliga 5
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/5030.ts
+#EXTINF:-1,DE: Bundesliga 6
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/5031.ts
+#EXTINF:-1,DE: DISNEY XD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/3816.ts
+#EXTINF:-1,Sky Select 1 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1106.ts
+#EXTINF:-1,Sky Select 2 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1115.ts
+#EXTINF:-1,Sky Select 3 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1114.ts
+#EXTINF:-1,Sky Select 4 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1113.ts
+#EXTINF:-1,Sky Select 5 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1112.ts
+#EXTINF:-1,Sky Select 6 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1111.ts
+#EXTINF:-1,Sky Select 7 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1110.ts
+#EXTINF:-1,Sky Select 8 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1109.ts
+#EXTINF:-1,Sky Select 9 HD
+http://v-iptv.dyndns.org:8000/live/E9O0rcolaniDavid/Ercol.9O0aniDavid/1107.ts
+#EXTINF:-1,James.Bond.007.Spectre.2015.DE
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/8439.mkv
+#EXTINF:-1,Paranormal.Activity.Ghost.Dimension
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/8437.mkv
+#EXTINF:-1,Der.Marsianer.Rettet.Mark.Watney
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/7592.mkv
+#EXTINF:-1,The.Last.Witch.Hunter
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/8438.mkv
+#EXTINF:-1,Crimson.Peak
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/8435.mkv
+#EXTINF:-1,Fack.ju.Goehte.2.DE
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/8440.mkv
+#EXTINF:-1,Man.lernt.nie.aus.DE
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/7596.mkv
+#EXTINF:-1,Alles.steht.Kopf.
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/7590.mkv
+#EXTINF:-1,Hotel.Transsilvanien.2
+http://v-iptv.dyndns.org:8000/movie/E9O0rcolaniDavid/Ercol.9O0aniDavid/8436.mkv
 #EXTINF:-1,[B][COLOR red]--- Verzieh dich nach oben!! ---[/COLOR][/B]
 http://0.0.0.0:1234
