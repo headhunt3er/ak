@@ -395,11 +395,11 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/759.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/758.ts
 #EXTINF:-1,[B][COLOR red]--- M3U Test ---[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,DE: Prosieben HD
-http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/1540.ts
-#EXTINF:-1,DE: Sky DMAX
-http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/1579.ts
-#EXTINF:-1,DE: RTL HD
-http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/1048.ts
+#EXTINF:-1,DE-PRO7
+http://anatoliantv.xyz:7412/live/mesutx82/54wd5641sd2/124.m3u8
+#EXTINF:-1,DMAX
+http://62.65.140.212:80/session/57f6c354-e55e-11e5-b7a6-005056bc06d1/nvnv5a
+#EXTINF:-1,Pro7 HD
+http://62.65.140.148:80/session/728dfb92-e55e-11e5-a1bf-005056bc1a52/nvnv5a
 #EXTINF:-1,[B][COLOR red]--- Verzieh dich nach oben!! ---[/COLOR][/B]
 http://0.0.0.0:1234
