@@ -395,167 +395,156 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/759.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/758.ts
 #EXTINF:-1,[B][COLOR red]--- M3U Test ---[/COLOR][/B]
 http://0.0.0.0:1234
-#EXTINF:-1,---- Sky De ----
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/938.ts
-#EXTINF:-1,ARD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1220.ts
-#EXTINF:-1,RTL HD [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/935.ts
-#EXTINF:-1,RTL 2 HD [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/934.ts
-#EXTINF:-1,Pro 7 Maxx DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3737.ts
-#EXTINF:-1,13th Street DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3738.ts
-#EXTINF:-1,3Sat
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1221.ts
-#EXTINF:-1,Pro 7 [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3624.ts
-#EXTINF:-1,Teleticino HD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3739.ts
-#EXTINF:-1,Sport Time TV 3 DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2101.ts
-#EXTINF:-1,SKY Junior (DE)
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3709.ts
-#EXTINF:-1,Sky History DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3733.ts
-#EXTINF:-1,Sky Fox HD [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3621.ts
-#EXTINF:-1,Sky Disney Channel DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3734.ts
-#EXTINF:-1,Servus TV HD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3735.ts
-#EXTINF:-1,13 Street HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1222.ts
-#EXTINF:-1,wdr [de]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3618.ts
-#EXTINF:-1,Romance TV DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2265.ts
-#EXTINF:-1,Krimi [SKY DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2142.ts
-#EXTINF:-1,Dmax [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3627.ts
-#EXTINF:-1,Nickelodeon [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3625.ts
-#EXTINF:-1,Sky Disney XD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2128.ts
-#EXTINF:-1,RTL Crime
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1400.ts
-#EXTINF:-1,RTL Passion
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1401.ts
-#EXTINF:-1,N-TV [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1388.ts
-#EXTINF:-1,MGM HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1402.ts
-#EXTINF:-1,Super RTL
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/933.ts
-#EXTINF:-1,Vox
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/930.ts
-#EXTINF:-1,Sat 1
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/927.ts
-#EXTINF:-1,Kabel 1 [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/929.ts
-#EXTINF:-1,Prosieben
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1212.ts
-#EXTINF:-1,Prosieben MAx
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1393.ts
-#EXTINF:-1,Sixx
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2264.ts
-#EXTINF:-1,NDR HD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2266.ts
-#EXTINF:-1,Kino Welt TV
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1389.ts
-#EXTINF:-1,SWR HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1390.ts
-#EXTINF:-1,SRF 1 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1392.ts
-#EXTINF:-1,SRF 2 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1391.ts
-#EXTINF:-1,ORF 1 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1213.ts
-#EXTINF:-1,ORF 2 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/928.ts
-#EXTINF:-1,ZDF HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1385.ts
-#EXTINF:-1,ZDF
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1201.ts
-#EXTINF:-1,TNT Serie
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1202.ts
-#EXTINF:-1,TNT Film
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1203.ts
-#EXTINF:-1,N24 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1214.ts
-#EXTINF:-1,SF Info
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2130.ts
-#EXTINF:-1,SF 1
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2132.ts
-#EXTINF:-1,SF 2
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2131.ts
-#EXTINF:-1,Sat 1 Emotion
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2133.ts
-#EXTINF:-1,----Sky Cinema De-----
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/201.ts
-#EXTINF:-1,Sky Cinema DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1210.ts
-#EXTINF:-1,Sky Cinema +1 HD  DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1399.ts
-#EXTINF:-1,Sky Cinema +24 DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2129.ts
-#EXTINF:-1,Sky Emotion DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1207.ts
-#EXTINF:-1,Sky Passion HD  DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2126.ts
-#EXTINF:-1,Sky Hits [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3620.ts
-#EXTINF:-1,Sky Comedy DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1208.ts
-#EXTINF:-1,Sky Cinema Hits DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1209.ts
-#EXTINF:-1,Sky Krimi DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1206.ts
-#EXTINF:-1,Sky Action HD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/926.ts
-#EXTINF:-1,Sky Atlantic [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3623.ts
-#EXTINF:-1,Sky 3D DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2947.ts
-#EXTINF:-1,Sky Axn [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3622.ts
-#EXTINF:-1,FOX HD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1217.ts
-#EXTINF:-1,Axn Sci-Fi DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2125.ts
-#EXTINF:-1,Heimatkanal DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2127.ts
-#EXTINF:-1,Teleclub Star
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2117.ts
-#EXTINF:-1,Teleclub Crime
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2121.ts
-#EXTINF:-1,Teleclub Cinema
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2122.ts
-#EXTINF:-1,----Sky Sport De----
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/202.ts
-#EXTINF:-1,Sky Sport News DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3653.ts
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/932.ts
-#EXTINF:-1,Sky Bundesliga 2 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2092.ts
-#EXTINF:-1,Sky Bundesliga 3 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2093.ts
-#EXTINF:-1,Sky Bundesliga 4 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2094.ts
-#EXTINF:-1,Sky Bundesliga 5 HD
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2227.ts
-#EXTINF:-1,Sky Sport 1 HD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/924.ts
-#EXTINF:-1,Sky Sport 1 [DE]
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/3619.ts
-#EXTINF:-1,Sky Sport 2 DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1204.ts
-#EXTINF:-1,Sky Sport 3 HD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/2948.ts
-#EXTINF:-1,Eurosport HD DE
-http://vediamoquestoquantodura.doesntexist.com:8000/live/lucio/lucio1/1404.ts
+http://iptv.proff.co:15003/live/marcell/marcell/192.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://iptv.proff.co:15003/live/marcell/marcell/1502.ts
+#EXTINF:-1,DE: Sky Cinema  1
+http://iptv.proff.co:15003/live/marcell/marcell/1503.ts
+#EXTINF:-1,DE: Cinema  24 HD
+http://iptv.proff.co:15003/live/marcell/marcell/1537.ts
+#EXTINF:-1,DE: Sky Hits
+http://iptv.proff.co:15003/live/marcell/marcell/1499.ts
+#EXTINF:-1,DE: Sky Emotion
+http://iptv.proff.co:15003/live/marcell/marcell/1500.ts
+#EXTINF:-1,DE: Sky Comedy
+http://iptv.proff.co:15003/live/marcell/marcell/1501.ts
+#EXTINF:-1,DE:Fox Serie
+http://iptv.proff.co:15003/live/marcell/marcell/1484.ts
+#EXTINF:-1,DE: AXN Action
+http://iptv.proff.co:15003/live/marcell/marcell/1545.ts
+#EXTINF:-1,DE: ZDF Kultur
+http://iptv.proff.co:15003/live/marcell/marcell/1485.ts
+#EXTINF:-1,DE: ZDF Info
+http://iptv.proff.co:15003/live/marcell/marcell/1486.ts
+#EXTINF:-1,DE: ZDF
+http://iptv.proff.co:15003/live/marcell/marcell/1487.ts
+#EXTINF:-1,DE: VOX
+http://iptv.proff.co:15003/live/marcell/marcell/1488.ts
+#EXTINF:-1,DE: TNT Serie
+http://iptv.proff.co:15003/live/marcell/marcell/1489.ts
+#EXTINF:-1,DE: TLC
+http://iptv.proff.co:15003/live/marcell/marcell/1490.ts
+#EXTINF:-1,DE: SYFY
+http://iptv.proff.co:15003/live/marcell/marcell/1491.ts
+#EXTINF:-1,DE: Super RTL
+http://iptv.proff.co:15003/live/marcell/marcell/1492.ts
+#EXTINF:-1,DE: Sport News HD
+http://iptv.proff.co:15003/live/marcell/marcell/1493.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv.proff.co:15003/live/marcell/marcell/1496.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv.proff.co:15003/live/marcell/marcell/1495.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptv.proff.co:15003/live/marcell/marcell/1505.ts
+#EXTINF:-1,DE: Bundesliga 2
+http://iptv.proff.co:15003/live/marcell/marcell/1544.ts
+#EXTINF:-1,DE: Bundesliga 3
+http://iptv.proff.co:15003/live/marcell/marcell/1543.ts
+#EXTINF:-1,DE: Sky Bundesliga 4
+http://iptv.proff.co:15003/live/marcell/marcell/1504.ts
+#EXTINF:-1,DE: Bundesliga 5
+http://iptv.proff.co:15003/live/marcell/marcell/1542.ts
+#EXTINF:-1,DE: Bundesliga 6
+http://iptv.proff.co:15003/live/marcell/marcell/1541.ts
+#EXTINF:-1,DE: Bundesliga 7
+http://iptv.proff.co:15003/live/marcell/marcell/1540.ts
+#EXTINF:-1,DE: Bundesliga 8
+http://iptv.proff.co:15003/live/marcell/marcell/1539.ts
+#EXTINF:-1,DE: Bundesliga 9
+http://iptv.proff.co:15003/live/marcell/marcell/1538.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://iptv.proff.co:15003/live/marcell/marcell/1494.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://iptv.proff.co:15003/live/marcell/marcell/1497.ts
+#EXTINF:-1,DE: Sky Krimi
+http://iptv.proff.co:15003/live/marcell/marcell/1498.ts
+#EXTINF:-1,DE: ARD
+http://iptv.proff.co:15003/live/marcell/marcell/1546.ts
+#EXTINF:-1,DE: 3Sat
+http://iptv.proff.co:15003/live/marcell/marcell/1547.ts
+#EXTINF:-1,DE: 13th Street
+http://iptv.proff.co:15003/live/marcell/marcell/1548.ts
+#EXTINF:-1,DE: 1-2-3.TV
+http://iptv.proff.co:15003/live/marcell/marcell/1549.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://iptv.proff.co:15003/live/marcell/marcell/1506.ts
+#EXTINF:-1,DE: Sky Action HD
+http://iptv.proff.co:15003/live/marcell/marcell/1507.ts
+#EXTINF:-1,DE: Sixx
+http://iptv.proff.co:15003/live/marcell/marcell/1508.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://iptv.proff.co:15003/live/marcell/marcell/1509.ts
+#EXTINF:-1,DE: Sat 1 Emotions
+http://iptv.proff.co:15003/live/marcell/marcell/1510.ts
+#EXTINF:-1,DE: Sat 1
+http://iptv.proff.co:15003/live/marcell/marcell/1511.ts
+#EXTINF:-1,DE: RTL Television
+http://iptv.proff.co:15003/live/marcell/marcell/1512.ts
+#EXTINF:-1,DE: RTL Passion
+http://iptv.proff.co:15003/live/marcell/marcell/1513.ts
+#EXTINF:-1,DE: RTL Nitro
+http://iptv.proff.co:15003/live/marcell/marcell/1514.ts
+#EXTINF:-1,DE: RTL Living
+http://iptv.proff.co:15003/live/marcell/marcell/1515.ts
+#EXTINF:-1,DE: RTL Crime
+http://iptv.proff.co:15003/live/marcell/marcell/1516.ts
+#EXTINF:-1,DE: RTL 2
+http://iptv.proff.co:15003/live/marcell/marcell/1517.ts
+#EXTINF:-1,DE: Romance TV
+http://iptv.proff.co:15003/live/marcell/marcell/1518.ts
+#EXTINF:-1,DE: Pro Sieben Maxx
+http://iptv.proff.co:15003/live/marcell/marcell/1519.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://iptv.proff.co:15003/live/marcell/marcell/1520.ts
+#EXTINF:-1,DE: National Geographic
+http://iptv.proff.co:15003/live/marcell/marcell/1521.ts
+#EXTINF:-1,DE: Nat Geo Wild
+http://iptv.proff.co:15003/live/marcell/marcell/1522.ts
+#EXTINF:-1,DE: N24
+http://iptv.proff.co:15003/live/marcell/marcell/1523.ts
+#EXTINF:-1,DE: N-TV
+http://iptv.proff.co:15003/live/marcell/marcell/1524.ts
+#EXTINF:-1,DE: MGM
+http://iptv.proff.co:15003/live/marcell/marcell/1525.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://iptv.proff.co:15003/live/marcell/marcell/1526.ts
+#EXTINF:-1,DE: KIKA
+http://iptv.proff.co:15003/live/marcell/marcell/1527.ts
+#EXTINF:-1,DE: Kabel Eins
+http://iptv.proff.co:15003/live/marcell/marcell/1528.ts
+#EXTINF:-1,DE: Junior
+http://iptv.proff.co:15003/live/marcell/marcell/1529.ts
+#EXTINF:-1,DE: History HD
+http://iptv.proff.co:15003/live/marcell/marcell/1530.ts
+#EXTINF:-1,DE: HeimatKanal
+http://iptv.proff.co:15003/live/marcell/marcell/1531.ts
+#EXTINF:-1,DE: DMAX
+http://iptv.proff.co:15003/live/marcell/marcell/1532.ts
+#EXTINF:-1,DE: Disney XD
+http://iptv.proff.co:15003/live/marcell/marcell/1533.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://iptv.proff.co:15003/live/marcell/marcell/1534.ts
+#EXTINF:-1,DE: Disney Channel
+http://iptv.proff.co:15003/live/marcell/marcell/1535.ts
+#EXTINF:-1,DE: Discovery Channel
+http://iptv.proff.co:15003/live/marcell/marcell/1536.ts
+#EXTINF:-1,Selekt 1
+http://iptv.proff.co:15003/live/marcell/marcell/1638.ts
+#EXTINF:-1,Selekt 2
+http://iptv.proff.co:15003/live/marcell/marcell/1637.ts
+#EXTINF:-1,Selekt 3
+http://iptv.proff.co:15003/live/marcell/marcell/1636.ts
+#EXTINF:-1,Selekt 4
+http://iptv.proff.co:15003/live/marcell/marcell/1635.ts
+#EXTINF:-1,Selekt 5
+http://iptv.proff.co:15003/live/marcell/marcell/1634.ts
+#EXTINF:-1,Selekt 6
+http://iptv.proff.co:15003/live/marcell/marcell/1633.ts
+#EXTINF:-1,Selekt 7
+http://iptv.proff.co:15003/live/marcell/marcell/1632.ts
+#EXTINF:-1,Selekt 8
+http://iptv.proff.co:15003/live/marcell/marcell/1631.ts
+#EXTINF:-1,Selekt 9
+http://iptv.proff.co:15003/live/marcell/marcell/1630.ts
 #EXTINF:-1,[B][COLOR red]--- Verzieh dich nach oben!! ---[/COLOR][/B]
 http://0.0.0.0:1234
