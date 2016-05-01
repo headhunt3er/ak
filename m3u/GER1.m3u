@@ -404,8 +404,6 @@ http://0.0.0.0:1234
 #EXTINF:-1,[B][COLOR red]--- Test Deutsch ---[/COLOR][/B]
 #EXTINF:-1,DE DMAX HD
 http://iptv.alphacs.tv:8080/live/2charaf/2charaf/9202.ts
-#EXTINF:-1,[B][COLOR red]--- Test Türkisch ---[/COLOR][/B]
-http://iptv.alphacs.tv:8080/live/2charaf/2charaf/7244.ts
 #EXTINF:-1,TR: Ulusal Kanal
 http://iptv.alphacs.tv:8080/live/2charaf/2charaf/13121.ts
 #EXTINF:-1,TR: TV 8 HD
