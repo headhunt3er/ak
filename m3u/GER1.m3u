@@ -187,10 +187,6 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/660.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/117.ts
 #EXTINF:-1,UK True Movies 2
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/682.ts
-#EXTINF:-1,UK The Vault
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/118.ts
-#EXTINF:-1,UK TG 4
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/119.ts
 #EXTINF:-1,UK Sky Sports News
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/121.ts
 #EXTINF:-1,UK Sky Sports F1
@@ -215,48 +211,12 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/120.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/130.ts
 #EXTINF:-1,UK Sky Arts 1
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/131.ts
-#EXTINF:-1,UK RTE 1
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/133.ts
-#EXTINF:-1,UK RTE 2
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/132.ts
-#EXTINF:-1,UK Quest
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/134.ts
-#EXTINF:-1,UK Nicktoons
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/135.ts
-#EXTINF:-1,UK Nickelodeon
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/136.ts
 #EXTINF:-1,UK National Geographic Wild
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/137.ts
 #EXTINF:-1,UK National Geographic
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/138.ts
-#EXTINF:-1,UK More 4
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/139.ts
-#EXTINF:-1,UK ITV 1
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/143.ts
-#EXTINF:-1,UK ITV 2
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/142.ts
-#EXTINF:-1,UK ITV 3
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/141.ts
-#EXTINF:-1,UK ITV 4
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/140.ts
-#EXTINF:-1,UK Investigation
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/144.ts
 #EXTINF:-1,UK History Channel
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/145.ts
-#EXTINF:-1,UK Gold
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/146.ts
-#EXTINF:-1,UK Food Network
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/147.ts
-#EXTINF:-1,UK Flava
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/148.ts
-#EXTINF:-1,UK Eurosport 2
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/90.ts
-#EXTINF:-1,UK Eurosport 1
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/91.ts
-#EXTINF:-1,UK ESPN
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/92.ts
-#EXTINF:-1,UK Drama
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/94.ts
 #EXTINF:-1,UK Dmax
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/95.ts
 #EXTINF:-1,UK Disney Junior
@@ -269,54 +229,10 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/98.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/99.ts
 #EXTINF:-1,UK Discovery History
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/100.ts
-#EXTINF:-1,UK Dave
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/101.ts
-#EXTINF:-1,UK Channel 4
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/102.ts
 #EXTINF:-1,UK BT Sports 2
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/103.ts
 #EXTINF:-1,UK BT Sports 1
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/104.ts
-#EXTINF:-1,UK Boxnation
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/105.ts
-#EXTINF:-1,UK BBC 1
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/109.ts
-#EXTINF:-1,UK BBC 2
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/108.ts
-#EXTINF:-1,UK BBC 3
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/107.ts
-#EXTINF:-1,UK BBC 4
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/106.ts
-#EXTINF:-1,UK At The Races
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/110.ts
-#EXTINF:-1,UK Animal Planet
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/111.ts
-#EXTINF:-1,UK Alibi
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/112.ts
-#EXTINF:-1,UK 5 Star
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/113.ts
-#EXTINF:-1,UK 3e
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/114.ts
-#EXTINF:-1,UK  Travel Channel
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/115.ts
-#EXTINF:-1,-----UK Test
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/803.ts
-#EXTINF:-1,UK: MTV Classic
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/757.ts
-#EXTINF:-1,UK : Yesterday
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/802.ts
-#EXTINF:-1,UK : TrueMovies2
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/801.ts
-#EXTINF:-1,UK : TrueEnt
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/800.ts
-#EXTINF:-1,UK : TrueDrama
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/799.ts
-#EXTINF:-1,UK : TrueChristmas
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/798.ts
-#EXTINF:-1,UK : TCMuk
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/797.ts
-#EXTINF:-1,UK : spike
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/796.ts
 #EXTINF:-1,UK : SkyThriller
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/795.ts
 #EXTINF:-1,UK : SkySuperhero
@@ -341,58 +257,18 @@ http://skyiptv.ddns.net:8000/live/unit1504/6526898/786.ts
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/785.ts
 #EXTINF:-1,UK : SkyAction
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/784.ts
-#EXTINF:-1,UK : SetantaIreland
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/783.ts
-#EXTINF:-1,UK : Setanta1
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/782.ts
-#EXTINF:-1,UK : RussiaToday
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/781.ts
-#EXTINF:-1,UK : RacingUK
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/780.ts
 #EXTINF:-1,UK : NickJunior
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/779.ts
-#EXTINF:-1,UK : MUTV
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/778.ts
-#EXTINF:-1,UK : Motorsuk
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/777.ts
-#EXTINF:-1,UK : liverpooltv
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/776.ts
-#EXTINF:-1,UK : Itv bew
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/775.ts
-#EXTINF:-1,UK : FOXNews
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/774.ts
 #EXTINF:-1,UK : fox uk
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/773.ts
-#EXTINF:-1,UK : Film4
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/772.ts
 #EXTINF:-1,UK : Disney XD
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/771.ts
 #EXTINF:-1,UK : DiscoveryHealth
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/770.ts
 #EXTINF:-1,UK : DiscoveryChannel
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/769.ts
-#EXTINF:-1,UK : CNNuk
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/768.ts
-#EXTINF:-1,UK : ChelseaTV
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/767.ts
-#EXTINF:-1,UK : channel 5
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/766.ts
 #EXTINF:-1,UK : CartoonNetuk
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/765.ts
-#EXTINF:-1,UK : BTSportsExtra
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/764.ts
-#EXTINF:-1,UK : BTSportsEU
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/763.ts
-#EXTINF:-1,UK : BBCTwoWales
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/762.ts
-#EXTINF:-1,UK : BBCOneWales
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/761.ts
-#EXTINF:-1,UK : bbc news
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/760.ts
-#EXTINF:-1,UK : 5 usa
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/759.ts
-#EXTINF:-1,UK :  Tv 3
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/758.ts
 #EXTINF:-1,[B][COLOR red]--- M3U Test ---[/COLOR][/B]
 http://0.0.0.0:1234
 #EXTINF:-1,DE: Prosieben HD
@@ -403,7 +279,7 @@ http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1579.ts
 http://0.0.0.0:1234
 #EXTINF:-1,[B][COLOR red]--- Test Deutsch ---[/COLOR][/B]
 #EXTINF:-1,DE DMAX HD
-http://iptv.alphacs.tv:8080/live/2charaf/2charaf/9202.ts
+http://iptv.alphacs.tv:8080/live/2charaf/2charaf/9202.m3u8
 #EXTINF:-1,TR: Ulusal Kanal
 http://iptv.alphacs.tv:8080/live/2charaf/2charaf/13121.ts
 #EXTINF:-1,TR: TV 8 HD
