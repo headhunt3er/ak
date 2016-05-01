@@ -1,27 +1,26 @@
-#Extm3u
-Private tv +18
-http://185.38.12.20:8088/private/
-Hustler HD 3D +18
-http://185.38.12.20:8088/hustler_hd/
-Canal_01
-http://199.195.195.108:32001
-Canal_02
-http://199.195.195.108:32002
-Canal_03
-http://199.195.195.108:32003
-Canal_04
-http://199.195.195.108:32004
-Canal_05
-http://199.195.195.108:32005
-Canal_06
-http://199.195.195.108:32006
-HOT tv Portugal +18
-http://myplace.dnsalias.com:6262/live/pt/gratis/24.ts
-PassieXXX TV
-http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
-vodlive 1
-http://cdn5.iviplanet.com:1935/VODLive1/_definst_/smil:vodlive1.smil/chunklist_w1867210502_b1300000.m3u8
-vodlive 2
-http://cdn5.iviplanet.com:1935/VODLive2/_definst_/smil:vodlive2.smil/chunklist_w1354878964_b1300000.m3u8
-vodlive 3
-http://cdn5.iviplanet.com:1935/VODLive3/_definst_/smil:vodlive3.smil/chunklist_w1633630483_b1200000.m3u8
+#EXTM3U
+#EXTINF:-1,[B][COLOR yellow]--- KING ANILS PLAYLIST ---[/COLOR][/B]
+#EXTINF:-1, ATV HD
+rtmp://146.0.32.43:1935/hls/1
+#EXTINF:-1, KANALTÜRK HD
+rtmp://146.0.32.43:1935/hls/2
+#EXTINF:-1, BUGÜN HD
+rtmp://146.0.32.43:1935/hls/3
+#EXTINF:-1, SHOW TV HD
+rtmp://146.0.32.43:1935/hls/4
+#EXTINF:-1, TV 8 HD
+rtmp://146.0.32.43:1935/hls/6
+#EXTINF:-1, FOX TV HD
+rtmp://146.0.32.43:1935/hls/7
+#EXTINF:-1, SAMANYOLU HD
+rtmp://146.0.32.43:1935/hls/8
+#EXTINF:-1, TRT 1 HD
+rtmp://146.0.32.43:1935/hls/9
+#EXTINF:-1, STAR TV
+rtmp://146.0.32.43:1935/hls/10
+#EXTINF:-1, NTV
+rtmp://146.0.32.43:1935/hls/11
+#EXTINF:-1, CNN TÜRK HD
+rtmp://146.0.32.43:1935/hls/12
+#EXTINF:-1, KANAL D
+rtmp://146.0.32.43:1935/hls/13
