@@ -281,9 +281,9 @@ http://0.0.0.0:1234
 #EXTINF:-1,DE DMAX HD
 http://iptv.alphacs.tv:8080/live/2charaf/2charaf/9202.m3u8
 #EXTINF:-1,TR: Ulusal Kanal
-http://iptv.alphacs.tv:8080/live/2charaf/2charaf/13121.ts
+http://iptv.alphacs.tv:8080/live/2charaf/2charaf/13121.m3u8
 #EXTINF:-1,TR: TV 8 HD
-http://iptv.alphacs.tv:8080/live/2charaf/2charaf/13122.ts
+http://iptv.alphacs.tv:8080/live/2charaf/2charaf/13122.m3u
 #EXTINF:-1,TR: TRT WORLD HD By www.iptv4free.com
 http://iptv.alphacs.tv:8080/live/2charaf/2charaf/13131.ts
 #EXTINF:-1,TR: TRT Haber HD
