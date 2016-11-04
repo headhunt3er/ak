@@ -135,6 +135,10 @@ http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/991.ts
 
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/992.ts
 
+#EXTINF:-1,LIG TV 4
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/990.ts
+
 #EXTINF:-1,Sports tv
 
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/993.ts
